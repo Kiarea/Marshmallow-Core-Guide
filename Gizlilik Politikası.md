@@ -1,6 +1,6 @@
 > Gizlilik Politikası
-- Veri tabanı 
+- Veri tabanı
 
-Marshmallow Core veritabanına kimse erişemez. 
+Marshmallow Core veritabanına kimse erişemez.
 
 🌐 Marshmallow Core her zaman gizliliğe önem verir!
